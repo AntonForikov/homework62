@@ -8,6 +8,7 @@ const Portfolio: React.FC = () => {
         <div className='d-flex flex-column'>
           <Link to='find-block-game'>Blocks Game</Link>
           <Link to='burger'>Burger</Link>
+          <Link to='pocker'>Poker</Link>
         </div>
         <div className='mx-auto'>
           <Outlet/>
