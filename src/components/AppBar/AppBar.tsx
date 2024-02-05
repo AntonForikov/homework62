@@ -25,7 +25,7 @@ const AppBar: React.FC = () => {
             <NavLink className="nav-link " to="/contacts">Contacts</NavLink>
           </li>
           <li>
-            <NavLink className="nav-link " to="/profile">Profile</NavLink>
+            <NavLink className="nav-link " to="/portfolio">Portfolio</NavLink>
           </li>
         </ul>
       </div>
