@@ -5,7 +5,14 @@ const AppBar: React.FC = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container-fluid">
-        <NavLink className="navbar-brand" to="#">Navbar</NavLink>
+        <a className="navbar-brand" href="https://www.platformaservice.com/" target='_blank'>
+          <img
+            src='https://static1.s123-cdn-static-a.com/uploads/972070/400_5ac1b2eb5122c.png'
+            alt='platforma'
+            height={60}
+          />
+        </a>
+
 
         <ul className='navbar-nav ms-auto'>
           <li>
