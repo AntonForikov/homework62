@@ -1,4 +1,4 @@
-import './salad.css'
+import './salad.css';
 import React from "react";
 
 interface Props {

@@ -20,7 +20,7 @@ const Meat: React.FC<Props> = ({count}) => {
             }
         </>
     );
-    return <>{divs}</>
+    return <>{divs}</>;
 };
 
 export default Meat;
